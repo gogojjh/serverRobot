@@ -1,0 +1,5 @@
+<launch>
+ 	<node pkg="ORB_SERVER" type="server_robot_node" name="server_robot_node"  args="/home/chiao/documents/serverRobot/Vocabulary/ORBvoc.bin /home/chiao/documents/serverRobot/config/euroc.yaml" cwd="node" output="screen">
+	</node>
+
+</launch>

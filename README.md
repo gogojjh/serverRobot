@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 An implementation of [Visual Inertial ORBSLAM](https://arxiv.org/abs/1610.05949) based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
@@ -246,3 +247,6 @@ This is the default mode. The system runs in parallal three threads: Tracking, L
 ### Localization Mode
 This mode can be used when you have a good map of your working area. In this mode the Local Mapping and Loop Closing are deactivated. The system localizes the camera in the map (which is no longer updated), using relocalization if needed. 
 
+=======
+# serverRobot
+>>>>>>> c722f40317ffa5512ef990dbc3f8814c483ffbe1
